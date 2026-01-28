@@ -1,0 +1,87 @@
+
+==========================================
+Results of Queries
+==========================================
+
+------------------------------------------
+Query 1: Names of all “certificate” courses on the topic of “AI” of duration less than or equal six months.
+------------------------------------------
+ 1.  AI Basics
+ 2.  GenAI
+
+Total records found: 2
+
+------------------------------------------
+Query 2: Names of all “certificate” courses on the topic of “AI” of duration less than or equal six months that are offered in partnership with “IITKGP”
+------------------------------------------
+ 1.  AI Basics
+ 2.  GenAI
+
+Total records found: 2
+
+------------------------------------------
+Query 3: Names of all students having age less than 18 years or more than 60 years who have done the course named “GenAI”
+------------------------------------------
+ 1.  John
+ 2.  Rahul
+
+Total records found: 2
+
+------------------------------------------
+Query 4: Names of all students who are not Indians and have done a course having the topic “AI” that was offered in partnership with “IITKGP”
+------------------------------------------
+ 1.  Aiko
+ 2.  John
+
+Total records found: 2
+
+------------------------------------------
+Query 5: Names of all countries from where a student has done a course instructed by “Andrew Ng”
+------------------------------------------
+ 1.  India
+ 2.  USA
+ 3.  Japan
+
+Total records found: 3
+
+------------------------------------------
+Query 6: Names of all instructors who have taught courses where at least one student was from India
+------------------------------------------
+ 1.  Andrew Ng
+
+Total records found: 1
+
+------------------------------------------
+Query 7: Name of courses such that at least one student who have taken this course has also taken the course named "GenAI"
+------------------------------------------
+ 1.  AI Basics
+ 2.  GenAI
+
+Total records found: 2
+
+------------------------------------------
+Query 8: Name of all courses such that all the students who have taken this course has taken the course named “GenAI”
+------------------------------------------
+ 1.  GenAI
+ 2.  Advanced AI
+ 3.  ML Foundations
+
+Total records found: 3
+
+------------------------------------------
+Query 9: Name of the most popular course (in terms of number of students) that is offered in partnership with “IITKGP”
+------------------------------------------
+ 1.  GenAI
+
+Total records found: 1
+
+------------------------------------------
+Query 10: Name of the Indian student who has got the highest average marks considering all course on the topic “AI”
+------------------------------------------
+ 1.  Ananya
+
+Total records found: 1
+
+==========================================
+All queries have been executed successfully.
+==========================================
