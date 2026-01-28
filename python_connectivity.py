@@ -3,7 +3,7 @@ import psycopg2
 # Name: Siddhant Singh
 # Roll Number: 23CS10085
 # Department: Computer Science and Engineering
-# DBMS Lab
+# Database Management Lab
 # Assignment Number: 3
 
 conn = psycopg2.connect(
