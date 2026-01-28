@@ -5,6 +5,12 @@
 
 using namespace std;
 
+// Name: Siddhant Singh
+// Roll Number: 23CS10085
+// Department: Computer Science and Engineering
+// DBMS Lab
+// Assignment Number: 3
+
 int main() {
     try {
         string conn_str = "host=10.5.18.102 dbname=23CS10085 user=23CS10085 password=23CS10085 port=5432";
